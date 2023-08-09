@@ -1,0 +1,3 @@
+#Code
+
+    return arr[key]
